@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="82dp"
+        android:layout_marginEnd="192dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Įvesti masinos numerį:"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/car_number_exittext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/car_number_exittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginEnd="163dp"
+        android:layout_marginBottom="558dp"
+        android:ems="10"
+        android:hint="numeris"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/save_car_number_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="261dp"
+        android:layout_marginBottom="484dp"
+        android:text="Išsaugoti"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/car_number_exittext" />
+
+    <LinearLayout
+        android:layout_width="560dp"
+        android:layout_height="114dp"
+        android:layout_marginStart="147dp"
+        android:layout_marginTop="410dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/save_car_number_btn">
+
+        <ImageButton
+            android:id="@+id/menu_btn5"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_menu"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/map_btn5"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_map"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/search5"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_search"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/settings5"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_settings"
+            app:iconGravity="textStart" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

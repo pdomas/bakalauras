@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/active_reservation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#154889"
+            android:text="@string/style_actyvi_rez" />
+
+        <Button
+            android:id="@+id/reservation_history_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#154889"
+            android:text="@string/style_rezerv_istor" />
+
+        <Button
+            android:id="@+id/auto_nr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#154889"
+            android:text="@string/style_prid_aut_val_num" />
+
+        <Button
+            android:id="@+id/payment_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#154889"
+            android:text="@string/style_mok_bud" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="560dp"
+                android:layout_height="114dp"
+                android:layout_marginStart="147dp"
+                android:layout_marginTop="550dp"
+                android:orientation="horizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageButton
+                    android:id="@+id/menu_btn5"
+                    android:layout_width="270px"
+                    android:layout_height="220px"
+                    android:backgroundTint="#154889"
+                    android:src="@drawable/ic_menu"
+                    app:iconGravity="textStart" />
+
+                <ImageButton
+                    android:id="@+id/map_btn5"
+                    android:layout_width="270px"
+                    android:layout_height="220px"
+                    android:backgroundTint="#154889"
+                    android:src="@drawable/ic_map"
+                    app:iconGravity="textStart" />
+
+                <ImageButton
+                    android:id="@+id/search5"
+                    android:layout_width="270px"
+                    android:layout_height="220px"
+                    android:backgroundTint="#154889"
+                    android:src="@drawable/ic_search"
+                    app:iconGravity="textStart" />
+
+                <ImageButton
+                    android:id="@+id/settings5"
+                    android:layout_width="270px"
+                    android:layout_height="220px"
+                    android:backgroundTint="#154889"
+                    android:src="@drawable/ic_settings"
+                    app:iconGravity="textStart" />
+
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
