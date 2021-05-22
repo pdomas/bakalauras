@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation_history_more_data.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_reservation_history_more_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_number.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_car_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-anydpi\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation_window.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_reservation_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_info_contents.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\custom_info_contents.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reservation_history.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_reservation_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\raw_mapstyle_retro.json.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\raw\\mapstyle_retro.json"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\raw_mapstyle_night.json.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\raw\\mapstyle_night.json"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_settings.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-anydpi\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_menu.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-anydpi\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_map.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-anydpi\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_active_reservation.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_active_reservation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\menu_styled_map.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\menu\\styled_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\raw_mapstyle_grayscale.json.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\raw\\mapstyle_grayscale.json"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rapolas_PC\\AndroidStudioProjects\\Bakalaurinis_darbas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
