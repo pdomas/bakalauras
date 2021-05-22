@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="SpinnerResources">
+            <item>Kiek laiko</item>
+            <item>1 valanda</item>
+            <item>2 valandos</item>
+            <item>3 valandos</item>
+            <item>4 valandos</item>
+            <item>5 valandos</item>
+            <item>6 valandos</item>
+            <item>7 valandos</item>
+            <item>8 valandos</item>
+            <item>9 valandos</item>
+        </string-array>
+</resources>

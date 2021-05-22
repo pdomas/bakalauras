@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActiveReservationActivity">
+
+    <TextView
+        android:id="@+id/address_textview"
+        android:layout_width="326dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="41dp"
+        android:layout_marginEnd="63dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="TextView"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/phone_number_textview"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/phone_number_textview"
+        android:layout_width="325dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="12dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/price_textview"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/address_textview" />
+
+    <TextView
+        android:id="@+id/price_textview"
+        android:layout_width="322dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/hours_reserved"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/phone_number_textview" />
+
+    <TextView
+        android:id="@+id/hours_reserved"
+        android:layout_width="151dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/price_textview" />
+
+    <TextView
+        android:id="@+id/total_price"
+        android:layout_width="152dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="40dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/Finish_reservation_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/hours_reserved"
+        app:layout_constraintTop_toBottomOf="@+id/price_textview" />
+
+    <Button
+        android:id="@+id/Finish_reservation_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="195dp"
+        android:layout_marginBottom="262dp"
+        android:text="Baigti rezervaciją"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="410dp"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/menu_btn4"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_menu"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/map_btn4"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_map"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/search4"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_search"
+            app:iconGravity="textStart" />
+
+        <ImageButton
+            android:id="@+id/settings4"
+            android:layout_width="270px"
+            android:layout_height="220px"
+            android:backgroundTint="#154889"
+            android:src="@drawable/ic_settings"
+            app:iconGravity="textStart" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
