@@ -1,0 +1,200 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bakalaurinis_darbas"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+16-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:10:5-76
+16-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+22
+23    <queries>
+23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+24
+25        <!-- Needs to be explicitly declared on Android R+ -->
+26        <package android:name="com.google.android.apps.maps" />
+26-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+26-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+27    </queries>
+28
+29    <application
+29-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:12:5-48:19
+30        android:allowBackup="true"
+30-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:13:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.3.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:14:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:15:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:16:9-54
+36        android:supportsRtl="true"
+36-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:17:9-35
+37        android:testOnly="true"
+38        android:theme="@style/Theme.Bakalaurinis_darbas"
+38-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:18:9-57
+39        android:usesCleartextTraffic="true" >
+39-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:19:9-44
+40        <activity
+40-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:21:9-22:55
+41            android:name="com.example.bakalaurinis_darbas.ReservationHistoryActivity"
+41-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:21:19-61
+42            android:windowSoftInputMode="adjustPan" />
+42-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:22:13-52
+43        <activity android:name="com.example.bakalaurinis_darbas.ActiveReservationActivity" />
+43-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:23:9-63
+43-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:23:19-60
+44        <activity android:name="com.example.bakalaurinis_darbas.SettingsActivity" />
+44-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:24:9-54
+44-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:24:19-51
+45        <activity android:name="com.example.bakalaurinis_darbas.ReservationWindowActivity" />
+45-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:25:9-63
+45-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:25:19-60
+46        <activity
+46-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:26:9-28:55
+47            android:name="com.example.bakalaurinis_darbas.SearchActivity"
+47-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:27:13-43
+48            android:windowSoftInputMode="adjustPan" />
+48-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:28:13-52
+49        <activity
+49-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:29:9-31:55
+50            android:name="com.example.bakalaurinis_darbas.CarNumberActivity"
+50-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:30:13-46
+51            android:windowSoftInputMode="adjustPan" />
+51-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:31:13-52
+52        <activity android:name="com.example.bakalaurinis_darbas.MapsActivityCurrentPlace" />
+52-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:32:9-62
+52-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:32:19-59
+53
+54        <meta-data
+54-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:34:9-36:69
+55            android:name="com.google.android.gms.version"
+55-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:35:13-58
+56            android:value="@integer/google_play_services_version" />
+56-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:36:13-66
+57        <meta-data
+57-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:37:9-39:71
+58            android:name="com.google.android.geo.API_KEY"
+58-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:38:13-58
+59            android:value="AIzaSyAsRmSQAXqEwax4wlehaAa7MYx_YnH5paY" />
+59-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:39:13-68
+60
+61        <activity android:name="com.example.bakalaurinis_darbas.MainActivity" >
+61-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:41:9-47:20
+61-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:41:19-47
+62            <intent-filter>
+62-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:42:13-46:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:43:17-69
+63-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:43:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:45:17-77
+65-->C:\Users\Rapolas_PC\AndroidStudioProjects\Bakalaurinis_darbas\app\src\main\AndroidManifest.xml:45:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
+69            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+69-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
+70            android:exported="false"
+70-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
+71            android:label="@string/places_autocomplete_label"
+71-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
+72            android:theme="@style/PlacesAutocompleteOverlay"
+72-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
+73            android:windowSoftInputMode="adjustResize" >
+73-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\ee650a35573f30983cab280c9ed89aae\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
+74        </activity> <!-- Needs to be explicitly declared on P+ -->
+75        <uses-library
+75-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+76            android:name="org.apache.http.legacy"
+76-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+77            android:required="false" />
+77-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\a24878549b59c1dbe63d69c264f5e6a6\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+78
+79        <activity
+79-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\d5d6ecd679300559b5138853ca80de9d\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+80-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\d5d6ecd679300559b5138853ca80de9d\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\d5d6ecd679300559b5138853ca80de9d\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\d5d6ecd679300559b5138853ca80de9d\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+83
+84        <service
+84-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+85            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+85-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+86            android:exported="false" >
+86-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+87            <meta-data
+87-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+88                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+88-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+89                android:value="cct" />
+89-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\14cf8aa4fb3e1ee7c10ee7c46ace0a89\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+90        </service>
+91        <service
+91-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+92            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+92-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+93            android:exported="false"
+93-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+94            android:permission="android.permission.BIND_JOB_SERVICE" >
+94-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+95        </service>
+96
+97        <receiver
+97-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+98            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+98-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+99            android:exported="false" />
+99-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\75dac4bc9014ab8ca7baa63e80456db8\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+100
+101        <provider
+101-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\eb58d68d5b23581b7c0d44a7264ce92e\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+102            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+102-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\eb58d68d5b23581b7c0d44a7264ce92e\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+103            android:authorities="com.example.bakalaurinis_darbas.lifecycle-process"
+103-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\eb58d68d5b23581b7c0d44a7264ce92e\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+104            android:exported="false"
+104-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\eb58d68d5b23581b7c0d44a7264ce92e\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+105            android:multiprocess="true" />
+105-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Rapolas_PC\.gradle\caches\transforms-2\files-2.1\eb58d68d5b23581b7c0d44a7264ce92e\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+106    </application>
+107
+108</manifest>
